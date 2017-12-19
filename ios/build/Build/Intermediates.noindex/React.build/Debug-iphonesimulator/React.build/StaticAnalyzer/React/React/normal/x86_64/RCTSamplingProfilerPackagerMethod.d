@@ -1,0 +1,17 @@
+dependencies: \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.mm \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/node_modules/react-native/React/Base/RCTUtils.h

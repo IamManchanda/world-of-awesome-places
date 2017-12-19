@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/android/app/src/debug/jniLibs"/></dataSet></merger>
