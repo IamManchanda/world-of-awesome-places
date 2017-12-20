@@ -8,7 +8,7 @@ import { StyleSheet, Text, View } from 'react-native';
 const AppListItem = (props) => (
   <View style={styles.listItem}>
     <Text>
-      {props.place}
+      {props.placeName}
     </Text>
   </View>
 );
