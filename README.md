@@ -10,11 +10,15 @@
 
 ## Usage (Android)
 
+Run Android Simulator from Android Studio
+
 ```
 npm run android # or `yarn android`
 ```
 
 ## Usage (iOS)
+
+Running iOS simulator is not required, it will do automatically!
 
 ```
 npm run iOS # or `yarn iOS`
