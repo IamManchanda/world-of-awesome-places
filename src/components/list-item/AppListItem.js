@@ -3,14 +3,16 @@
  */
 
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
 const AppListItem = (props) => (
-  <View style={styles.listItem}>
-    <Text>
-      {props.placeName}
-    </Text>
-  </View>
+  <TouchableOpacity onPress={props.onItemPressed}>
+    <View style={styles.listItem}>
+      <Text>
+        {props.placeName}
+      </Text>
+    </View>
+  </TouchableOpacity>
 );
 
 const styles = StyleSheet.create({

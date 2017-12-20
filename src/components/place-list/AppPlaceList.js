@@ -8,8 +8,11 @@ import { View, StyleSheet } from 'react-native';
 import AppListItem from './../list-item/AppListItem';
 
 const AppPlaceList = (props) => {
-  const placesOutput = props.places.map((place, index) => (
-    <AppListItem key={index} placeName={place} />
+  const placesOutput = props.places.map((place, i) => (
+    <AppListItem 
+      key={i} 
+      placeName={place} 
+      onItemPressed={() => props.onItemDeleted(i)} />
   ));
   
   return (

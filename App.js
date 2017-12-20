@@ -21,11 +21,24 @@ class App extends Component {
     });
   };
 
+  placeDeltedHandler = (index) => {
+    this.setState((prevState) => {
+      return {
+        places: prevState.places.filter((place, i) => {
+          return i !== index;
+        }),
+      };
+    });
+  };
+
   render() {
     return (
       <View style={styles.container}>
-        <AppPlaceInput onPlaceAdded={this.placeAddedHandler} />
-        <AppPlaceList places={this.state.places} />
+        <AppPlaceInput 
+          onPlaceAdded={this.placeAddedHandler} />
+        <AppPlaceList 
+          places={this.state.places} 
+          onItemDeleted={this.placeDeltedHandler} />
       </View>
     );
   }
