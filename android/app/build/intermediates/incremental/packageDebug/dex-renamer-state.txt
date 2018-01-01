@@ -1,4 +1,4 @@
-#Tue Dec 19 19:52:41 IST 2017
+#Mon Jan 01 15:37:10 IST 2018
 base.0=/Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/harmanmanchanda/Desktop/harman/web/mern-bootcamp/013-react-native/world-of-awesome-places/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
